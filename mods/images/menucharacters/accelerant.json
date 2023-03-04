@@ -1,0 +1,11 @@
+{
+	"idle_anim": "accelerant",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		250,
+		-60
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "Accelerant"
+}

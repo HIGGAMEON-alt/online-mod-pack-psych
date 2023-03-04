@@ -1,0 +1,59 @@
+mods/data/accelerant/accelerant-hard.json
+mods/data/accelerant/VS GameOver.lua
+mods/data/accelerant/VS Ready.lua
+mods/data/accelerant/VS Sustain.lua
+mods/characters/hank.json
+mods/characters/gf-hank.json
+mods/stages/Nevada.json
+mods/stages/Nevada.lua
+mods/images/characters/HankAssets.png
+mods/images/characters/HankAssets.xml
+mods/images/characters/GF_Hank.png
+mods/images/characters/GF_Hank.xml
+mods/characters/tricky.json
+mods/images/characters/TrickyAssets.png
+mods/images/characters/TrickyAssets.xml
+mods/custom_notetypes/Fire Note.lua
+mods/custom_notetypes/Bullet Note.lua
+mods/custom_events/Start Tricky Static.lua
+mods/custom_events/Do a static.lua
+mods/custom_events/Camera Tween Zoom.lua
+mods/custom_events/Play Sound.lua
+mods/custom_events/Camera Tween Pos.lua
+mods/sounds/splat.ogg
+mods/images/NevadaHotdog.png
+mods/images/The Rock.png
+mods/images/NevadaGround.png
+mods/images/NevadaRightCliff.png
+mods/images/NevadaLeftCliff.png
+mods/images/NevadaSky.png
+mods/images/GF go bye bye.png
+mods/images/helicopter.png
+mods/images/helicopter.xml
+mods/images/Deimos.png
+mods/images/Deimos.xml
+mods/images/Sanford.png
+mods/images/Sanford.xml
+mods/images/LazerDot.png
+mods/images/LazerDot.xml
+mods/images/speakers.png
+mods/images/speakers.xml
+mods/images/GFHotdog.png
+mods/images/GFHotdog.xml
+mods/images/Climbers.png
+mods/images/Climbers.xml
+mods/sounds/death sound.ogg
+mods/images/NOTE_fire.png
+mods/images/NOTE_fire.xml
+mods/images/Smoke.png
+mods/images/Smoke.xml
+mods/sounds/burnSound.ogg
+mods/images/BulletNotes.png
+mods/images/BulletNotes.xml
+mods/images/TrickyStatic.png
+mods/fonts/impact.ttf
+mods/sounds/staticSound.ogg
+mods/songs/accelerant/Voices.ogg
+mods/songs/accelerant/voices.ogg
+mods/songs/accelerant/Inst.ogg
+mods/songs/accelerant/inst.ogg

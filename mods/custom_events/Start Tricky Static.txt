@@ -1,0 +1,4 @@
+CLOWN ENGAGED!
+
+
+Value 1: Chance of appearing (from 0 to 100)

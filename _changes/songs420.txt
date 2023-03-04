@@ -1,1 +1,2 @@
+mods/weeks/a.json
 mods/weeks/p.json

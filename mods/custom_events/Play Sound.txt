@@ -1,0 +1,5 @@
+Plays a sound from the sounds folder
+
+Value 1: Sound name
+
+Value 2: Sound Volume

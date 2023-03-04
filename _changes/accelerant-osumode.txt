@@ -1,0 +1,22 @@
+mods/data/accelerant/accelerant-hard.json
+mods/data/accelerant/VS GameOver.lua
+mods/data/accelerant/VS Ready.lua
+mods/data/accelerant/VS Sustain.lua
+mods/stages/Nevada.json
+mods/stages/Nevada.lua
+mods/custom_notetypes/Fire Note.lua
+mods/custom_notetypes/Bullet Note.lua
+mods/custom_events/Start Tricky Static.lua
+mods/custom_events/Do a static.lua
+mods/custom_events/Camera Tween Zoom.lua
+mods/custom_events/Play Sound.lua
+mods/custom_events/Camera Tween Pos.lua
+mods/sounds/splat.ogg
+mods/sounds/death sound.ogg
+mods/sounds/burnSound.ogg
+mods/fonts/impact.ttf
+mods/sounds/staticSound.ogg
+mods/songs/accelerant/Voices.ogg
+mods/songs/accelerant/voices.ogg
+mods/songs/accelerant/Inst.ogg
+mods/songs/accelerant/inst.ogg

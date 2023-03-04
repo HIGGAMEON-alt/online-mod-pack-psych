@@ -1,0 +1,10 @@
+mods/data/phantasm/phantasm-easy.json
+mods/data/phantasm/phantasm-hard.json
+mods/data/phantasm/phantasm.json
+mods/stages/fleet.json
+mods/stages/fleet.lua
+mods/sounds/stat.ogg
+mods/songs/phantasm/Voices.ogg
+mods/songs/phantasm/voices.ogg
+mods/songs/phantasm/Inst.ogg
+mods/songs/phantasm/inst.ogg

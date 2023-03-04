@@ -1,0 +1,20 @@
+mods/data/phantasm/phantasm-easy.json
+mods/data/phantasm/phantasm-hard.json
+mods/data/phantasm/phantasm.json
+mods/characters/sonic.json
+mods/stages/fleet.json
+mods/stages/fleet.lua
+mods/images/characters/sonic fw.png
+mods/images/characters/sonic fw.xml
+mods/images/bg/vintage.png
+mods/images/bg/vintage.xml
+mods/images/bg/sonic.png
+mods/images/bg/fleetway.png
+mods/images/characters/fleetway.png
+mods/images/characters/fleetway.xml
+mods/sounds/stat.ogg
+mods/characters/fleetway.json
+mods/songs/phantasm/Voices.ogg
+mods/songs/phantasm/voices.ogg
+mods/songs/phantasm/Inst.ogg
+mods/songs/phantasm/inst.ogg

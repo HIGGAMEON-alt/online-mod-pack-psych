@@ -1,2 +1,2 @@
-mods/weeks/vs online.json
-mods/weeks/choas nightmare.json
+mods/weeks/a.json
+mods/weeks/p.json
